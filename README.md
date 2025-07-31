@@ -1,3 +1,5 @@
+## Hi. I'm a final year Computer science student exploring software development, cryptography and information security, and seeing where these areas overlap so I can make and break software. I love working on backend information security implementation and overseeing DevOps requirements.
+
 ## 🧱 Fullstack
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
