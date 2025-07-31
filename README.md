@@ -1,4 +1,4 @@
-### Hi. I'm a final year Computer science student exploring software development, cryptography and information security, and seeing where these areas overlap so I can make and break software. I love working on backend information security implementation and overseeing DevOps requirements.
+#### Hi. I'm a final year Computer science student exploring software development, cryptography and information security, and seeing where these areas overlap so I can make and break software. I love working on backend information security implementation and overseeing DevOps requirements.
 
 ## 🧱 Fullstack
 
@@ -16,7 +16,9 @@
 ## ⚙️ DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![Amazon VPC](https://img.shields.io/badge/Amazon%20VPC-%23232F3E?style=for-the-badge&logoColor=white)
+![Amazon ECR](https://img.shields.io/badge/Amazon%20ECR-%23232F3E?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
