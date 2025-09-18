@@ -1,5 +1,8 @@
 #### Hi.
 
+![photo](./IMG_2528.jpg)
+
+
 ## 🧱 Fullstack
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
