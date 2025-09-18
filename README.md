@@ -1,4 +1,4 @@
-#### Hi. I'm a final year Computer science student exploring software development, cryptography and information security, and seeing where these areas overlap so I can make and break software. I love working on backend information security implementation and overseeing DevOps requirements.
+#### Hi.
 
 ## 🧱 Fullstack
 
