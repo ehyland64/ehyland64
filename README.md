@@ -1,6 +1,5 @@
 #### Hi.
 
-![photo](./IMG_2528.jpg)
 
 
 ## 🧱 Fullstack
