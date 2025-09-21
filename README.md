@@ -5,6 +5,5 @@
 
 #### currently spinning: Supersonic - Oasis
 
-#### project ideas:
-##### - getting that currently spinning reading working
-##### - advanced Garmin sleep metrics
+#### stuff i'm doing
+##### - advanced Garmin sleep metrics app
