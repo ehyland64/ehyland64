@@ -6,4 +6,4 @@
 #### currently spinning: Supersonic - Oasis
 
 #### stuff i'm doing
-##### - advanced Garmin sleep metrics app
+##### - advanced Garmin sleep metrics app (Garmin dream analytics)
